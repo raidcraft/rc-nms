@@ -1,0 +1,10 @@
+main: de.raidcraft.nms.NMSPlugin
+name: RCNMS
+version: ${project.version}#${build.number}
+description: API for using version independent NMS classes.
+author: Silthus
+website: http://www.raid-craft.de
+depend: [RaidCraft-API]
+softdepend: []
+database: false
+api-version: 1.13
