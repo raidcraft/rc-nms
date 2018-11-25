@@ -43,6 +43,13 @@
         </repository>
     </repositories>
 
+    <distributionManagement>
+        <repository>
+            <id>faldoria-deps</id>
+            <url>http://repo.faldoria.de/artifactory/Faldoria/</url>
+        </repository>
+    </distributionManagement>
+
     <dependencies>
         <dependency>
             <groupId>de.faldoria</groupId>
