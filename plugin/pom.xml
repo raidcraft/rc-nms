@@ -50,7 +50,7 @@
                             <artifactSet>
                                 <includes>
                                     <include>de.faldoria.nms:nms-*</include>
-                                    <include>de.faldoria.nsm:api</include>
+                                    <include>de.faldoria.nms:api</include>
                                 </includes>
                             </artifactSet>
                         </configuration>
